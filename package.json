@@ -20,7 +20,7 @@
     "test": "stylelint sanitize-4d.css"
   },
   "devDependencies": {
-    "stylelint": "^9.6.0",
+    "stylelint": "^13.3.3",
     "stylelint-config-standard": "^18.2.0"
   },
   "stylelint": {
